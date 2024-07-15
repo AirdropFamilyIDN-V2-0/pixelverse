@@ -2,7 +2,7 @@
 # AUTO CLAIM FEED
 # https://t.me/AirdropFamilyIDN
 
-# HOW TO RUN
+# HOW TO RUN PIXELVERSE WEB
 ```
 git clone https://github.com/AirdropFamilyIDN-V2-0/pixelverse.git
 ```
